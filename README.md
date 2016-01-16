@@ -1,2 +1,2 @@
 # my_R
-My R project
+My R lesson project
